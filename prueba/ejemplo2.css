@@ -1,0 +1,13 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: aqua;
+    background: brown;
+    text-align: center;
+    background-color: beige;
+} 
+h1 { color: black;
+background: white;
+}
+h2 { color: orange;
+    background: wheat;
+    }
